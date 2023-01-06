@@ -12,7 +12,7 @@
 
 ## :camera: Screenshot:
 ------
-![Project Preview](https://github.com/ChillHumanoid/fCC-Random-Quote-Machine/blob/main/project-preview.png)
+![Project Preview](https://github.com/ChillHumanoid/fCC-Random-Quote-Machine/blob/main/project-preview2.png)
 
 ## :computer: Author:
 + Coded with :blue_heart: by [Kirsten Canfield](https://github.com/ChillHumanoid)
