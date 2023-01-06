@@ -3,11 +3,11 @@
 + [Live Version](https://codepen.io/chillhumanoid/full/eYKoPLO)
 + [Link to fCC Project Page](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine)
 
-## :wrench: Languages and Tools:
+## :wrench: Languages, Libraries, and Tools:
 ------
-+ HTML5
-+ CSS3
-+ JavaScript
++ HTML5, Bootstrap
++ CSS3, FontAwesome
++ JavaScript, React/ReactDOM
 + Visual Studio Code
 
 ## :camera: Screenshot:
